@@ -6,3 +6,5 @@ Hello!
 Hello!
 Hello!
 Hyunji!
+Tired!
+Midterm Exam...
