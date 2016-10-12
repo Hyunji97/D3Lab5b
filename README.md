@@ -6,3 +6,6 @@ Hello!
 Hello!
 Hello!
 Hyunji!
+#NANO
+Wrote it in nano! Remember!!!
+
